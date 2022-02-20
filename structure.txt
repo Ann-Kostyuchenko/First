@@ -1,0 +1,14 @@
+
+ID: 1717
+Description: Incorrect length of the film on the video playback screen
+Steps:        1. Go to the video playback application "Title".
+    	      2. Find and open the description of "Terminator: Dark Fate".
+              3. Scroll the slider on the playback screen until the movie ends
+Actual result: The playback screen displays 1h 43m.
+Expected result: The playback screen shows a running time of 2h 08m
+
+Severity: Minor (S4)
+Priority: Low
+Attachment: Bug1
+
+
